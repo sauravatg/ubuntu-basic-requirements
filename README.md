@@ -1,3 +1,1 @@
-1.OPEN YOUR TERMINAL 
-2.THEN TYPE 
-      bash basic.sh
+#OPEN YOUR TERMINAL #THEN TYPE bash basic.sh
